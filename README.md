@@ -8,7 +8,7 @@ Miembros del proyecto
 - Cisneros Flores Christian Ysrael
 - Huamán Santamaria Fernando Ulises
 
-Se hizo uso de una diversidad de herramientas y lenguajes de programación
+Se hizo uso de las siguientes herramientas y lenguajes de programación
 - Frontend: HTML, CSS
 - Backend: Java, VueJS, PostgresQL, Postman
 - Sistema de archivos: Git y Github
